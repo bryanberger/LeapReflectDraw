@@ -6,7 +6,7 @@ HColorField colorField;
 int sphereSize = 32;
 
 void setup() {
-  size(900, 900, P3D);
+  size(1000, 1000, P3D);
   background(0);
   noFill(); noStroke(); smooth(); sphereDetail(20);
 
